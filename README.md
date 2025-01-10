@@ -1,18 +1,5 @@
 # sales-data-analysis
 This repository contains a comprehensive analysis of sales data for a commercial store. The project aims to uncover actionable insights by exploring sales trends, product performance, and customer behavior. It leverages data visualization and statistical methods to assist in data-driven decision-making.
-### **Task 1: Sales Data Analysis for a Commercial Store**  
-**GitHub Repository Description Template**
-
----
-
-### **Repository Name:**  
-`sales-data-analysis`
-
----
-
-### **Description:**  
-This repository contains a comprehensive analysis of sales data for a commercial store. The project aims to uncover actionable insights by exploring sales trends, product performance, and customer behavior. It leverages data visualization and statistical methods to assist in data-driven decision-making.
-
 ---
 
 ### **Features:**  
@@ -58,24 +45,6 @@ This repository contains a comprehensive analysis of sales data for a commercial
 
 ---
 
-### **Folder Structure:**  
-```
-sales-data-analysis/
-├── data/
-│   ├── raw_data.csv  # Raw sales data
-│   └── cleaned_data.csv  # Cleaned data after preprocessing
-├── notebooks/
-│   └── Sales_Analysis.ipynb  # Main analysis notebook
-├── reports/
-│   └── insights.pdf  # Final report
-├── visuals/
-│   └── charts/  # Exported visualizations
-├── requirements.txt  # List of dependencies
-└── README.md  # Project overview
-```
-
----
-
 ### **Contributing:**  
 Contributions are welcome! Please follow the steps below:  
 1. Fork the repository.  
@@ -102,9 +71,5 @@ This project is licensed under the MIT License.
 
 ### **Contact:**  
 For any queries or suggestions, please reach out to:  
-- Email: [your-email@example.com]  
-- GitHub: [https://github.com/your-username](https://github.com/your-username)  
+- Email: [patilsanjivini1email@example.com]  
 
----
-
-You can use this template as a README file for your GitHub repository.
